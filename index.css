@@ -1,9 +1,0 @@
-body{
-    padding: 0px;
-    background-color: black;
-    display: flex;
-    justify-content: left;
-}
-.left{
-    text-align: left;
-}
